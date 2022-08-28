@@ -5,4 +5,4 @@
 
 1. Deacrease button
 2. Increase button
-3. Rest button
+3. Reset button
