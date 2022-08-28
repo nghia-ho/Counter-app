@@ -1,8 +1,8 @@
-#Counter
+# Counter
 
-##A learning project @Coderschool.vn
+## A learning project @Coderschool.vn
 
-##Features
+## Features
 
 1. Deacrease button
 2. Increase button
